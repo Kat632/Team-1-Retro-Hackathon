@@ -12,7 +12,8 @@ It works best at sizes of 8px, 16px and other multiples of 8.*/
 } */
 
 body {
-    background-color: #b0817f;
+    background-color: #f5e7c5;
+
 }
 
 
@@ -156,7 +157,7 @@ body {
 }
 
 #next{
-    background-color: #ed5f63;
+    background-color: #687483;
     width: 25%;
     height: 35px;
     border-radius: 5px;
@@ -174,7 +175,7 @@ body {
 }
 
 .d-block{
-    display: block!important;
+    display: inline!important;
 }
 
 
